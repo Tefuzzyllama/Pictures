@@ -1,20 +1,20 @@
 /*
     (C) Copyright 2015 Adam Cowdy
 
-    This file is part of Foobar.
+    This file is part of Pictures.
 
-    Foobar is free software: you can redistribute it and/or modify
+    Pictures is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    Foobar is distributed in the hope that it will be useful,
+    Pictures is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+    along with Pictures. If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include <QApplication>
@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
      */
 
     QQmlApplicationEngine engine;
-    engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
+    engine.load(QUrl(QStringLiteral("qrc:/MainWindow.qml")));
 
     return app.exec();
 }

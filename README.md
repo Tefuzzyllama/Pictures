@@ -1,3 +1,4 @@
-#Pictures
+Pictures
+========
 
-A simple picture viewer which is designed to be very basic.
+A simple picture viewer application for quickly looking at your photos.

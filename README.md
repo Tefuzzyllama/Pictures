@@ -1,2 +1,3 @@
-# Pictures
+Pictures
+########
 Simple picture viewer

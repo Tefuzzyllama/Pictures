@@ -1,3 +1,4 @@
 Pictures
-########
-Simple picture viewer
+========
+
+A simple picture viewer which is designed to be very basic.
